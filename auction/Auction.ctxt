@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Auction()
+comment0.text=\n\ Create\ a\ new\ auction.\n
+comment1.params=description
+comment1.target=void\ enterLot(java.lang.String)
+comment1.text=\n\ Enter\ a\ new\ lot\ into\ the\ auction.\n\ @param\ description\ A\ description\ of\ the\ lot.\n
+comment2.params=
+comment2.target=void\ showLots()
+comment2.text=\n\ Show\ the\ full\ list\ of\ lots\ in\ this\ auction.\n
+numComments=3
